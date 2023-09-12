@@ -1,0 +1,68 @@
+/*skill bars*/
+.skills {
+    margin: 2em auto 1.5em auto;
+}
+
+.skills-wrapper {
+    margin-top: 1.5em;
+    width: 80%;
+}
+
+.skill-container {
+    width: 100%;
+    background-color: #ddd;
+}
+
+
+.skill-bar {
+    margin: 5px 0;
+    padding-top: 10px;
+    /* Add top padding */
+    padding-bottom: 10px;
+    /* Add bottom padding */
+    color: white;
+    /* White text color */
+}
+
+.html {
+    width: 75%;
+    background-color: orangered;
+}
+
+.js {
+    width: 80%;
+    background-color: orangered;
+}
+
+.php {
+    width: 60%;
+    background-color: orangered;
+}
+
+.java {
+    width: 70%;
+    background-color: orangered;
+}
+
+.autonomie {
+    width: 90%;
+    background-color: orangered;
+}
+
+.esp-equipe {
+    width: 100%;
+    background-color: orangered;
+}
+
+.motive {
+    width: 100%;
+    background-color: orangered;
+}
+.curieux {
+    width: 90%;
+    background-color: orangered;
+}
+.eng {
+    width: 90%;
+    background-color: orangered;
+}
